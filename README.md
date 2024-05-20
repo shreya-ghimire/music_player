@@ -92,7 +92,7 @@ This project is a Music Player application built using the MERN stack (MongoDB, 
 
     The application should now be running and accessible at `http://localhost:3000`.
 
-## Project Structure
+
 
 ![Screenshot 2024-05-20 152940](https://github.com/shreya-ghimire/music_player/assets/140148528/06e077ba-64d0-41c1-9a9d-040927f9474f)
 ![Screenshot 2024-05-20 153054](https://github.com/shreya-ghimire/music_player/assets/140148528/fe72b2f5-cb23-4bde-be97-b49743f7e126)
