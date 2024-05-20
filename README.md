@@ -9,7 +9,6 @@ This project is a Music Player application built using the MERN stack (MongoDB, 
 - [Setup Instructions](#setup-instructions)
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
-- [License](#license)
 
 ## Features
 
